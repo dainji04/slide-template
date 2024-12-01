@@ -1,6 +1,7 @@
 # demo
 
-![image](https://github.com/user-attachments/assets/10db48ed-cc9b-407f-9a88-5d6d85253e71)
+![image](https://github.com/user-attachments/assets/6db9aa02-3de1-4340-b704-795c729bd0ad)
+
 
 # template slide for front end dev
 
